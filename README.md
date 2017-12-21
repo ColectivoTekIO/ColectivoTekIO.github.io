@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Esto es el Manifiesto
 
 You can use the [editor on GitHub](https://github.com/ColectivoTekIO/ColectivoTekIO.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
